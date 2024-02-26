@@ -3,7 +3,8 @@
 + Actualmente estudando TypeScript, Php, SEO e WordPress
 + Procuro crescer a nível profissinal com as minhas habildades, adquiridas
 ## Minhas Estatisticas
-<div style="display: inline-block">
+<main style="display: inline-block">
+ 
 <div>
  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonDaniloMs&layout=compact&langs_count=16&theme=radical"/>
 </div>
@@ -18,11 +19,11 @@
     srcset="https://github-readme-stats.vercel.app/api?username=AndersonDaniloMs&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img align="left"  height="180em" src="https://github-readme-stats.vercel.app/api?username=AndersonDaniloMs&show_icons=true" />
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=AndersonDaniloMs&show_icons=true" />
 </picture>
  </div>
 
- </div>
+ </main>
 
 <div  align="center">
 <picture>
