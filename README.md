@@ -18,7 +18,7 @@
     srcset="https://github-readme-stats.vercel.app/api?username=AndersonDaniloMs&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=AndersonDaniloMs&show_icons=true" />
+  <img align="left"  height="180em" src="https://github-readme-stats.vercel.app/api?username=AndersonDaniloMs&show_icons=true" />
 </picture>
  </div>
 
