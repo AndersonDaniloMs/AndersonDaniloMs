@@ -3,7 +3,7 @@
 + Actualmente estudando TypeScript, Php, SEO e WordPress
 + Procuro crescer a nível profissinal com as minhas habildades, adquiridas
 ## Minhas Estatisticas
-<main style="display: inline-block">
+<main style="display:flex">
  
 <div>
  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonDaniloMs&layout=compact&langs_count=16&theme=radical"/>
