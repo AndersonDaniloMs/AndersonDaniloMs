@@ -1,6 +1,6 @@
 ## Olá sou o Anderson Danilo
 + Desenvolvedor frontend
-+ Actualmente estudando TypeScript, Php, SEO e WordPress
++ Actualmente estudando TypeScript, C#, SEO e WordPress
 + Procuro crescer a nível profissinal com as minhas habildades, adquiridas
 ## Minhas Estatisticas
 <main style="display:flex">
